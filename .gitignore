@@ -1,5 +1,5 @@
 *.pyc
-
+catalog/migrations/
 .coverage
 
 staticfiles
