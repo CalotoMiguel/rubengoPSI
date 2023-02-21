@@ -1,0 +1,14 @@
+*.pyc
+
+.coverage
+
+staticfiles
+uploads
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
+# Nuestro bloc de notas
+ayudita.txt
